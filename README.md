@@ -3,6 +3,8 @@ ud120-projects
 
 Starter project code for students taking Udacity ud120 (updated to Python3)
 
+*THis project is missing the final project
+
 Overview of changes:
 
 * Shabangs changed to python3
@@ -20,3 +22,4 @@ Software version numbers (2015-09-04):
 * nltk: 3.0.4
 * numpy: 1.9.2
 * matplotlib: 1.4.3
+
